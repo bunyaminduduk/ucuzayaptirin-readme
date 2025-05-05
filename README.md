@@ -26,6 +26,6 @@ This repository does not contain source code due to the private nature of the pr
 
 ## 🌐 Live Demo
 
-Visit the live site at: [https://ucuzayaptirin.com](https://ucuzayaptirin.com)
+Visit the live site at: [https://www.ucuzayaptirin.com](https://www.ucuzayaptirin.com)
 
 > ⚠️ Please note: I am currently working on a full code refactor. The live site may differ from the version described here or what is currently under development.
